@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    dynamic:
+      primary: master
+      strict: on
